@@ -1,6 +1,6 @@
 ## Description
 
-Template repository for backend services. With require boilerplate code.
+Template repository for backend services. With required boilerplate code.
 
 ## Installation
 
